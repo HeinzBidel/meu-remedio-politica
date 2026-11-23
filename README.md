@@ -1,6 +1,6 @@
-# Sem Esquecer — Política de Privacidade
+# Pilulário — Política de Privacidade
 
-Página pública da política de privacidade do app **Sem Esquecer: Remédio na Hora** (Android e iOS), em português e
+Página pública da política de privacidade do app **Pilulário: Alarme de Remédio** (Android e iOS), em português e
 inglês, servida pelo GitHub Pages: <https://heinzbidel.github.io/meu-remedio-politica/>
 
 As lojas exigem uma URL pública e estável. Este repositório existe só para isso. Tem de dizer o mesmo que a tela
